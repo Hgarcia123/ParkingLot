@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Estágio\\ParkingLot_API\\ParkingLot_01_10_2021_FINAL\\ParkingLot\\Domain\\Domain.csproj": {}
+  },
+  "projects": {
+    "F:\\Estágio\\ParkingLot_API\\ParkingLot_01_10_2021_FINAL\\ParkingLot\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Estágio\\ParkingLot_API\\ParkingLot_01_10_2021_FINAL\\ParkingLot\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "F:\\Estágio\\ParkingLot_API\\ParkingLot_01_10_2021_FINAL\\ParkingLot\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Henrique Garcia\\.nuget\\packages\\",
+        "outputPath": "F:\\Estágio\\ParkingLot_API\\ParkingLot_01_10_2021_FINAL\\ParkingLot\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Henrique Garcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

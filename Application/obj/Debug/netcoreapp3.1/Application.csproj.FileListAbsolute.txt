@@ -1,0 +1,66 @@
+C:\Users\Admin\Documents\Projetos CS\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Projetos CS\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Projetos CS\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\Admin\Documents\Projetos CS\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\ParkingLot\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\Admin\Documents\ParkingLot\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Admin\Documents\ParkingLot\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Admin\Documents\ParkingLot\Application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Admin\Documents\ParkingLot\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Admin\Documents\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\Admin\Documents\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Users\Admin\Documents\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\Admin\Documents\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Admin\Documents\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\Application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\Application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.pdb
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Application\bin\Debug\netcoreapp3.1\Application.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Application\bin\Debug\netcoreapp3.1\Application.pdb
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Application\bin\Debug\netcoreapp3.1\Domain.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Application\obj\Debug\netcoreapp3.1\Application.pdb

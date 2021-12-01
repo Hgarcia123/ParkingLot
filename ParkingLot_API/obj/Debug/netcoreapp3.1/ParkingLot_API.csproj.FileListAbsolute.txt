@@ -1,0 +1,664 @@
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.exe
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.deps.json
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.runtimeconfig.json
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.runtimeconfig.dev.json
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.pdb
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.Views.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.Views.pdb
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.AssemblyInfo.cs
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.RazorAssemblyInfo.cache
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.RazorAssemblyInfo.cs
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\staticwebassets\ParkingLot_API.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\staticwebassets\ParkingLot_API.StaticWebAssets.xml
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\scopedcss\bundle\ParkingLot_API.styles.css
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.TagHelpers.input.cache
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.TagHelpers.output.cache
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.RazorCoreGenerate.cache
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.Views.pdb
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.csproj.CopyComplete
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.pdb
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.genruntimeconfig.cache
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.exe
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.deps.json
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.runtimeconfig.json
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.runtimeconfig.dev.json
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.pdb
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.Views.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.Views.pdb
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.csproj.AssemblyReference.cache
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.AssemblyInfoInputs.cache
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.AssemblyInfo.cs
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.csproj.CoreCompileInputs.cache
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.RazorAssemblyInfo.cache
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.RazorAssemblyInfo.cs
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\staticwebassets\ParkingLot_API.StaticWebAssets.Manifest.cache
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\staticwebassets\ParkingLot_API.StaticWebAssets.xml
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\scopedcss\bundle\ParkingLot_API.styles.css
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.TagHelpers.input.cache
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.TagHelpers.output.cache
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.RazorCoreGenerate.cache
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.RazorTargetAssemblyInfo.cache
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.RazorTargetAssemblyInfo.cs
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.Views.pdb
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.csproj.CopyComplete
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.pdb
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.genruntimeconfig.cache
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.exe
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.deps.json
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.runtimeconfig.json
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.runtimeconfig.dev.json
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.pdb
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.Views.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.Views.pdb
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.csproj.AssemblyReference.cache
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.AssemblyInfoInputs.cache
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.AssemblyInfo.cs
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.RazorAssemblyInfo.cache
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.RazorAssemblyInfo.cs
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\staticwebassets\ParkingLot_API.StaticWebAssets.Manifest.cache
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\staticwebassets\ParkingLot_API.StaticWebAssets.xml
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\scopedcss\bundle\ParkingLot_API.styles.css
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.TagHelpers.input.cache
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.TagHelpers.output.cache
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.RazorCoreGenerate.cache
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.RazorTargetAssemblyInfo.cache
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.RazorTargetAssemblyInfo.cs
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.Views.pdb
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.csproj.CopyComplete
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.pdb
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.genruntimeconfig.cache
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\NJsonSchema.Yaml.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\NSwag.Core.Yaml.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\Users\Admin\Documents\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.exe
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.deps.json
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.runtimeconfig.json
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.runtimeconfig.dev.json
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.pdb
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.Views.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.Views.pdb
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\NJsonSchema.Yaml.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\NSwag.Core.Yaml.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.csproj.AssemblyReference.cache
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.AssemblyInfoInputs.cache
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.AssemblyInfo.cs
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.RazorAssemblyInfo.cache
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.RazorAssemblyInfo.cs
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\staticwebassets\ParkingLot_API.StaticWebAssets.Manifest.cache
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\staticwebassets\ParkingLot_API.StaticWebAssets.xml
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\scopedcss\bundle\ParkingLot_API.styles.css
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.TagHelpers.input.cache
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.TagHelpers.output.cache
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.RazorCoreGenerate.cache
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.RazorTargetAssemblyInfo.cache
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.RazorTargetAssemblyInfo.cs
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.Views.pdb
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.csproj.CopyComplete
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.pdb
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.genruntimeconfig.cache
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\libman.json
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.exe
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.deps.json
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.runtimeconfig.json
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.runtimeconfig.dev.json
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.pdb
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.Views.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\ParkingLot_API.Views.pdb
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Humanizer.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\MediatR.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\NJsonSchema.Yaml.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\NSwag.Core.Yaml.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Application.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Domain.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Infrastructure.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Application.pdb
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.csproj.AssemblyReference.cache
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.AssemblyInfoInputs.cache
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.AssemblyInfo.cs
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.csproj.CoreCompileInputs.cache
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.MvcApplicationPartsAssemblyInfo.cs
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.MvcApplicationPartsAssemblyInfo.cache
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.RazorAssemblyInfo.cache
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.RazorAssemblyInfo.cs
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\staticwebassets\ParkingLot_API.StaticWebAssets.Manifest.cache
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\staticwebassets\ParkingLot_API.StaticWebAssets.xml
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\scopedcss\bundle\ParkingLot_API.styles.css
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.TagHelpers.input.cache
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.TagHelpers.output.cache
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.RazorCoreGenerate.cache
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.RazorTargetAssemblyInfo.cache
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.RazorTargetAssemblyInfo.cs
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.Views.pdb
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.csproj.CopyComplete
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.pdb
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\ParkingLot_API\obj\Debug\netcoreapp3.1\ParkingLot_API.genruntimeconfig.cache

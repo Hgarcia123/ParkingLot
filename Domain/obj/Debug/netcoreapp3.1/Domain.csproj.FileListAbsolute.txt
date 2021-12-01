@@ -1,0 +1,50 @@
+C:\Users\Admin\Documents\Projetos CS\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Projetos CS\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Projetos CS\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Admin\Documents\Projetos CS\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\ParkingLot\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\Admin\Documents\ParkingLot\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Admin\Documents\ParkingLot\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Admin\Documents\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Admin\Documents\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Admin\Documents\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Admin\Documents\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\miste\Desktop\ParkingLot\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Henrique Garcia\Desktop\VisualStudioProjects\ParkingLot_26_08_2021\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Henrique Garcia\Desktop\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+F:\Estágio\ParkingLot_API\ParkingLot_01_10_2021_FINAL\ParkingLot\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
